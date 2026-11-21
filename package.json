@@ -1,6 +1,6 @@
 {
   "name": "safe-template-kit",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Replaces {{key}} placeholders in templates using values from an object",
   "type": "module",
   "main": "src/index.js",
